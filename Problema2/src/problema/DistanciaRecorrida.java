@@ -5,9 +5,8 @@ public class DistanciaRecorrida {
 
 		          public static void main( String[] args ) {
 			      double tiempo,  distancia = 0;
-			      double VI = 299792.458;
+			      double VI = 29.979;
 			      double VF = 0.331;
-			   
 			      
 			      
 			     				  
@@ -32,7 +31,7 @@ public class DistanciaRecorrida {
 				  tiempo = v4.nextInt();
 				  
 				  distancia = Math.sqrt(Math.pow(x1 - x2, 2) + Math.pow(y2 - y1, 2));
-			      System.out.printf( "La distancia recorrida es de: %.3f", distancia);
+			      System.out.printf( "La distancia recorrida es de : %.2f km" , distancia);
 		      
 	     	      
 	   

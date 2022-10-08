@@ -1,6 +1,7 @@
 package problema;
 import problema.Aceleracion;
 import problema.DistanciaRecorrida;
+import problema.CantidadKilometros;
 import java.util.Scanner;
 
 
@@ -14,8 +15,10 @@ class main {
 
 	}
 		class DistanciaRecorrida {
+			
+			 class CantidadKilometros {
 	
-	
+			}
 	
 	}
 		
